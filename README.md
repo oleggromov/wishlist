@@ -15,10 +15,12 @@
 * Kindle Paperwhite
 
 ### Книги
+* «От хорошего к великому», Джим Коллинз
 * Christopher Alexander:
 	* The Timeless Way of Building
 	* A Pattern Language
-* «От хорошего к великому», Джим Коллинз
+* Steve McConnell
+	* Rapid Development
 
 ## Научиться
 * Кайтинг
